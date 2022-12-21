@@ -1,0 +1,107 @@
+h1 {
+    background-color: antiquewhite;
+    width: 100%;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    text-align: center;
+  }
+hr {
+    border: 3px solid rgb(100, 20, 6);
+    border-radius: 5px;
+}
+.intro {
+    background-color: rgb(236, 232, 225);
+    text-align: center;
+    font-weight: bolder;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #999;
+}
+.statuie{
+    width: 327px;                                                                                                   
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    
+}
+.intrare{
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    
+}
+.miner{
+    width: 264px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+.exponate {
+    font-style: italic;
+}
+span {
+    background-color:ivory ;
+    font-size:large;
+    text-shadow: 3px 3px 0px #afadad;                                                                               
+}
+#vagon{
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#vagon img{
+    height: 250px;
+    width: 250px;
+    vertical-align: center;
+}
+p{
+    text-align: center;
+    ine-height: 1.6;
+}
+#interio{
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    padding: 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    text-align:center;
+}
+#interio img{
+    height: 300px;
+    width: 300px;
+    vertical-align: center;
+}
+ul {
+    text-align: left;
+    line-height: 200%;
+}
+li{
+    text-align: left;
+}
+.sapte {
+    text-transform: capitalize;
+}
+.top{
+background-color: #dad5d5;
+}
+#muzeu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#muzeu img{
+    height: 200px;
+    width: 200px;
+    vertical-align: center;
+}
